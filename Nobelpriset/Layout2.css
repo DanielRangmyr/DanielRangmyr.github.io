@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	
+	
+}
+#Storbox{
+	margin:auto;
+	height:1000px;
+	width:100%;
+	position:absolute;
+	background-color:#09C;
+	overflow:hidden;
+}
+header{
+	height:22%;
+	width:100%;
+	float:left;
+	background-image:url(nobelpriset-i-fysik.png);
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:auto;
+	overflow:hidden;
+}
+
+nav{
+	background-color:#036;
+	height:12%;
+	width:100%;
+	float:left;
+	text-align:left;
+	font-family:"MS Serif", "New York", serif;
+	font-size:36px;
+	color:#C90;
+	
+	
+
+}
+
+article{
+	background-color:#006;
+	width:76%;
+	height:800px;
+	float:left;
+	font-family:"MS Serif", "New York", serif;
+	font-size:22px;
+	color:#C90;
+	
+}
+
+aside{
+	background-color:#048;
+	background-position:center;
+	background-size:cover;
+	width:24%;
+	height:100%;
+	float:left;
+	font-size:26px;
+}
+ul{
+	
+	
+	text-align:center;
+	padding:inherit;
+	list-style:none;
+	color:#C90;
+	
+	
+	
+	
+}
+
+li {
+	line-height:67px;
+	height:100%;
+	width:100%;
+	
+}
+a {
+	text-decoration:none;
+	color:#C90;
+}
+p,h1{
+	padding-left:25px;
+	padding-right:25px;
+}
+
+
